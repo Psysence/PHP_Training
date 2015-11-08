@@ -1,3 +1,6 @@
-1) git commit -m ""
-2) git push -u origin master
-3)
+1) a)git add [kati]     (Update to arxeio)
+   b)git rm -r [kati]   (Remove to arxeio)
+
+2) git commit -m ""
+
+3) git push -u origin master
